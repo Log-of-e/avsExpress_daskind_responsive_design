@@ -92,6 +92,7 @@
     <Content Include="js\main.js" />
     <Content Include="js\plugins.js" />
     <Content Include="libs\app.js" />
+    <Content Include="links.html" />
     <Content Include="media\01_Susies_dnc_09-05-12.mp3" />
     <Content Include="media\02-War Master 01-16-13.mp3" />
     <Content Include="media\MP3_Play.jpg" />
