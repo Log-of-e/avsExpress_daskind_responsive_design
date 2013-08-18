@@ -34,10 +34,10 @@ function () {
     }
      
     document.body.onload = function () {
-        registerclick("track1", "media/01_Susies_dnc_09-05-12.mp3");
-        //registerclick("track2", "media/02-War Master 01-16-13.mp3");
-        //registerclick("track3", "media/03_cjungirl_5-22-12_mk_st1.mp3");
-        //registerclick("track4", "media/04-PPine_01-03-13.mp3");
+        //registerclick("track1", "media/01_Susies_dnc_09-05-12.mp3");
+        registerclick("track2", "media/03_cjungirl.mp3");
+        registerclick("track3", "media/07_mmorning.mp3");
+        registerclick("track4", "media/10-song_between_us.mp3");
 
        // alert("LOADED!");
        
